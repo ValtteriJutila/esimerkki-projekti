@@ -12,6 +12,6 @@ public class Tervehdys {
     }
     
     public static void naytaPaivamaara() {
-        System.out.println("Tänään on hyvä päivä oppia Gittiä! ja tässä on päivitys");
+        System.out.println("Tänään on hyvä v päivä oppia Gittiä! ja tässä on päivitys");
     }
 }
